@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hero-image{
+    width: 70%;
+    border-radius: 20px;
+}
+.herosection{
+    margin-top: 100px;
+    margin-left: 80px;
+}

@@ -1,0 +1,11 @@
+.services-first{
+    justify-content: center;
+}
+
+
+@media screen and (max-width: 768px) {
+    .services-first{
+        justify-content: center;
+        margin-left: 25%;
+    }
+}
